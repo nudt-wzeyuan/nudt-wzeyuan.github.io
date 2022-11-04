@@ -1,2 +1,2 @@
-# wzeyuan_nudt.github.io
+# nudt-wzeyuan.github.io
 This is the personal page of Wang Zeyuan.
